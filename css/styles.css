@@ -1,0 +1,8 @@
+#gameWindow {
+  width: 500px;
+  height: 500px;
+}
+.gridElement {
+  background-color: blue;
+  display: inline-block;
+}
