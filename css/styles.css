@@ -1,8 +1,26 @@
+button {
+  display: inline-block;
+  margin: 1% auto;
+}
+
+.buttonTray {
+
+}
+
+.gridElement {
+  display: inline-block;
+}
+
+.gridElementDefaultState {
+  background-color: blue;
+}
+
 #gameWindow {
   width: 500px;
   height: 500px;
+  margin: auto;
 }
-.gridElement {
-  background-color: blue;
-  display: inline-block;
+
+#websiteWindow {
+  text-align: center;
 }
